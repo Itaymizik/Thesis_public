@@ -1,0 +1,4 @@
+# Public showcase: deny new files by default; explicitly review each addition.
+/*
+!/.gitignore
+!/README.md
